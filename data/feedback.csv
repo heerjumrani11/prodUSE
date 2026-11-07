@@ -1,0 +1,592 @@
+feedback_id,user_id,created_at,channel,rating,text
+1,236,2026-01-11 15:41:24,app_review,3,The goal setup screen is overwhelming.
+2,64,2026-01-13 10:57:12,survey,3,Would love to share streaks with friends.
+3,175,2026-01-18 11:11:17,app_review,2,Too pricey compared to free habit apps.
+4,332,2026-01-20 11:28:58,app_review,3,Too pricey compared to free habit apps.
+5,427,2026-01-21 12:18:11,app_review,4,It's okay. Nothing special yet.
+6,146,2026-01-22 10:57:32,app_review,2,I didn't understand what to enter when creating a goal.
+7,294,2026-01-23 17:17:46,survey,2,Love the app but the subscription cost is too high for me.
+8,284,2026-01-23 19:32:47,app_review,2,Not sure this is for me.
+9,288,2026-01-24 08:34:45,survey,4,Not sure this is for me.
+10,345,2026-01-24 18:55:18,app_review,3,Can you add dark mode and weekly reports?
+11,683,2026-01-26 21:51:40,app_review,1,Pro is too expensive for what it offers.
+12,462,2026-01-28 10:23:17,survey,1,Thinking of cancelling because the price is not worth it.
+13,326,2026-01-28 12:52:12,survey,2,Pro is too expensive for what it offers.
+14,487,2026-01-30 19:47:39,app_review,5,Great little app. Does exactly what I need.
+15,824,2026-02-02 08:12:49,app_review,3,Needs a way to track habits I do many times a day.
+16,48,2026-02-02 21:45:17,survey,4,Great little app. Does exactly what I need.
+17,336,2026-02-05 18:23:44,survey,3,Too many steps before I could start. I almost deleted the app.
+18,831,2026-02-06 18:19:09,app_review,4,Reminders are the best feature. I haven't missed a day.
+19,203,2026-02-06 19:11:56,app_review,5,Simple and nice to use.
+20,887,2026-02-09 12:37:34,survey,5,Simple and nice to use.
+21,765,2026-02-10 08:43:14,app_review,4,Reminders are the best feature. I haven't missed a day.
+22,624,2026-02-11 13:50:01,survey,4,Please add a widget for my home screen.
+23,736,2026-02-11 16:50:12,app_review,4,The daily reminders keep me on track. Love them.
+24,109,2026-02-12 14:39:08,app_review,5,Reminders are the best feature. I haven't missed a day.
+25,186,2026-02-13 10:36:05,app_review,3,Pro is too expensive for what it offers.
+26,904,2026-02-14 18:41:37,survey,4,Needs a way to track habits I do many times a day.
+27,1118,2026-02-14 21:41:24,app_review,1,I can't justify paying every month for a habit tracker.
+28,638,2026-02-17 19:18:04,app_review,4,The daily reminders keep me on track. Love them.
+29,1307,2026-02-18 20:23:55,survey,3,Decent app but I keep forgetting to open it.
+30,1238,2026-02-19 08:24:42,app_review,4,Great little app. Does exactly what I need.
+31,842,2026-02-20 14:05:34,app_review,1,Too many steps before I could start. I almost deleted the app.
+32,512,2026-02-21 20:56:41,survey,3,Needs a way to track habits I do many times a day.
+33,1218,2026-02-22 09:20:19,app_review,3,Not sure this is for me.
+34,1100,2026-02-22 13:22:11,app_review,2,It's okay. Nothing special yet.
+35,68,2026-02-22 15:08:07,app_review,3,The goal setup screen is overwhelming.
+36,916,2026-02-22 15:40:52,survey,2,I can't justify paying every month for a habit tracker.
+37,759,2026-02-23 12:44:20,app_review,1,Thinking of cancelling because the price is not worth it.
+38,461,2026-02-24 12:53:06,survey,4,Great little app. Does exactly what I need.
+39,426,2026-02-24 16:01:32,survey,3,Too many steps before I could start. I almost deleted the app.
+40,1360,2026-02-24 18:04:32,app_review,3,Please add a widget for my home screen.
+41,641,2026-02-25 10:52:50,survey,3,Too many steps before I could start. I almost deleted the app.
+42,579,2026-02-25 20:51:17,survey,1,I didn't understand what to enter when creating a goal.
+43,1313,2026-02-25 21:00:08,survey,1,Setting up my first goal was confusing and I gave up.
+44,933,2026-02-26 20:09:02,survey,3,The goal setup screen is overwhelming.
+45,630,2026-02-28 12:48:54,app_review,3,It's okay. Nothing special yet.
+46,1210,2026-02-28 16:20:20,app_review,4,Decent app but I keep forgetting to open it.
+47,1446,2026-02-28 19:34:18,survey,2,Too many steps before I could start. I almost deleted the app.
+48,635,2026-02-28 21:23:14,app_review,3,Decent app but I keep forgetting to open it.
+49,739,2026-03-01 12:56:41,app_review,4,Great little app. Does exactly what I need.
+50,47,2026-03-01 15:58:46,app_review,4,Please add a widget for my home screen.
+51,1130,2026-03-02 16:55:35,app_review,4,Streak reminders actually work for me.
+52,391,2026-03-02 21:57:34,app_review,2,Too pricey compared to free habit apps.
+53,1352,2026-03-03 08:26:03,app_review,3,Not sure this is for me.
+54,33,2026-03-03 15:18:16,app_review,5,Clean design and easy to log check-ins.
+55,1015,2026-03-03 20:41:16,app_review,2,Too many steps before I could start. I almost deleted the app.
+56,1663,2026-03-04 11:54:30,app_review,3,Not sure this is for me.
+57,583,2026-03-04 13:13:10,app_review,3,It's okay. Nothing special yet.
+58,783,2026-03-04 13:51:31,app_review,3,Can you add dark mode and weekly reports?
+59,1268,2026-03-04 14:52:00,app_review,1,Crashes every time I open my streak screen.
+60,1120,2026-03-05 08:01:33,survey,5,Reminders are the best feature. I haven't missed a day.
+61,1415,2026-03-05 15:05:45,app_review,4,Great little app. Does exactly what I need.
+62,1516,2026-03-06 10:03:43,app_review,3,Too many steps before I could start. I almost deleted the app.
+63,1642,2026-03-06 12:17:25,survey,3,Decent app but I keep forgetting to open it.
+64,157,2026-03-06 12:49:16,app_review,2,Decent app but I keep forgetting to open it.
+65,1667,2026-03-06 19:20:15,app_review,2,Latest update broke the app. My check-ins won't save.
+66,1753,2026-03-06 21:55:00,app_review,2,It's okay. Nothing special yet.
+67,345,2026-03-07 08:16:49,survey,1,Pro is too expensive for what it offers.
+68,480,2026-03-07 10:01:08,survey,2,Too many steps before I could start. I almost deleted the app.
+69,116,2026-03-07 11:17:23,app_review,4,Streak reminders actually work for me.
+70,1299,2026-03-07 16:15:49,survey,3,Pro is too expensive for what it offers.
+71,789,2026-03-08 08:28:55,app_review,3,Setting up my first goal was confusing and I gave up.
+72,1396,2026-03-08 10:01:38,app_review,3,Please add a widget for my home screen.
+73,257,2026-03-08 14:08:43,survey,2,Too many steps before I could start. I almost deleted the app.
+74,1768,2026-03-08 18:17:10,app_review,4,Would love to share streaks with friends.
+75,1079,2026-03-09 16:23:41,survey,4,Decent app but I keep forgetting to open it.
+76,930,2026-03-11 08:58:43,app_review,4,Not sure this is for me.
+77,318,2026-03-11 14:30:55,survey,3,The goal setup screen is overwhelming.
+78,149,2026-03-11 17:14:58,app_review,4,Needs a way to track habits I do many times a day.
+79,1151,2026-03-11 20:01:58,survey,1,Love the app but the subscription cost is too high for me.
+80,1157,2026-03-12 11:27:16,survey,4,Great little app. Does exactly what I need.
+81,487,2026-03-13 14:19:18,app_review,3,Thinking of cancelling because the price is not worth it.
+82,1091,2026-03-13 18:11:03,survey,4,Great little app. Does exactly what I need.
+83,1354,2026-03-13 20:24:36,app_review,2,Too many steps before I could start. I almost deleted the app.
+84,147,2026-03-13 20:25:21,app_review,1,Setting up my first goal was confusing and I gave up.
+85,1345,2026-03-14 18:43:11,app_review,4,Simple and nice to use.
+86,455,2026-03-15 16:41:47,app_review,4,It's okay. Nothing special yet.
+87,821,2026-03-16 08:18:41,survey,2,I can't justify paying every month for a habit tracker.
+88,668,2026-03-16 10:06:37,app_review,4,Decent app but I keep forgetting to open it.
+89,312,2026-03-16 16:23:00,app_review,4,Needs a way to track habits I do many times a day.
+90,1980,2026-03-17 11:28:17,survey,2,It's okay. Nothing special yet.
+91,661,2026-03-17 16:34:24,app_review,3,It's okay. Nothing special yet.
+92,1157,2026-03-18 14:09:17,app_review,3,Pro is too expensive for what it offers.
+93,367,2026-03-19 16:14:48,survey,3,Love the app but the subscription cost is too high for me.
+94,1256,2026-03-20 08:03:16,app_review,4,It's okay. Nothing special yet.
+95,2163,2026-03-20 14:30:32,app_review,4,Can you add dark mode and weekly reports?
+96,1342,2026-03-21 12:50:29,survey,3,Too pricey compared to free habit apps.
+97,966,2026-03-21 14:58:49,app_review,5,Clean design and easy to log check-ins.
+98,100,2026-03-21 15:07:07,app_review,3,I didn't understand what to enter when creating a goal.
+99,1500,2026-03-22 12:43:57,app_review,2,Too pricey compared to free habit apps.
+100,2053,2026-03-22 13:05:26,survey,1,Thinking of cancelling because the price is not worth it.
+101,1425,2026-03-22 13:27:10,app_review,3,Not sure this is for me.
+102,195,2026-03-23 08:01:45,app_review,1,I can't justify paying every month for a habit tracker.
+103,2038,2026-03-23 10:01:45,survey,3,Can you add dark mode and weekly reports?
+104,1978,2026-03-23 10:07:54,app_review,1,Too pricey compared to free habit apps.
+105,2025,2026-03-23 16:10:15,app_review,4,Would love to share streaks with friends.
+106,2002,2026-03-24 15:06:24,survey,4,Can you add dark mode and weekly reports?
+107,1790,2026-03-24 20:50:39,app_review,2,It's okay. Nothing special yet.
+108,433,2026-03-25 14:23:09,survey,5,Clean design and easy to log check-ins.
+109,793,2026-03-25 16:57:05,app_review,2,Not sure this is for me.
+110,1811,2026-03-26 14:30:26,survey,2,Decent app but I keep forgetting to open it.
+111,706,2026-03-26 18:26:56,survey,4,Clean design and easy to log check-ins.
+112,1462,2026-03-26 20:53:43,survey,2,Freezes and closes randomly on my phone.
+113,1458,2026-03-27 08:07:29,survey,4,It's okay. Nothing special yet.
+114,1201,2026-03-27 08:44:11,app_review,2,I can't justify paying every month for a habit tracker.
+115,2395,2026-03-27 09:22:13,survey,3,Setting up my first goal was confusing and I gave up.
+116,1971,2026-03-28 16:56:53,app_review,4,Not sure this is for me.
+117,2399,2026-03-29 11:55:20,app_review,2,The app keeps crashing since the last update.
+118,1559,2026-03-29 13:41:31,survey,1,Setting up my first goal was confusing and I gave up.
+119,902,2026-03-29 15:33:47,app_review,2,I can't justify paying every month for a habit tracker.
+120,75,2026-03-30 11:21:15,app_review,2,Setting up my first goal was confusing and I gave up.
+121,2079,2026-03-30 15:30:27,app_review,2,Not sure this is for me.
+122,714,2026-03-30 15:36:58,app_review,3,Not sure this is for me.
+123,1022,2026-03-30 21:00:39,app_review,3,Needs a way to track habits I do many times a day.
+124,401,2026-03-30 21:56:24,survey,3,I can't justify paying every month for a habit tracker.
+125,790,2026-03-31 09:31:25,survey,1,The goal setup screen is overwhelming.
+126,2131,2026-03-31 16:15:56,survey,3,I can't justify paying every month for a habit tracker.
+127,1730,2026-03-31 21:56:24,survey,3,Setting up my first goal was confusing and I gave up.
+128,505,2026-04-01 09:53:40,survey,2,Too pricey compared to free habit apps.
+129,308,2026-04-01 15:31:28,app_review,4,Not sure this is for me.
+130,1312,2026-04-01 16:23:02,survey,4,Decent app but I keep forgetting to open it.
+131,2259,2026-04-01 21:49:40,app_review,2,It's okay. Nothing special yet.
+132,1145,2026-04-02 12:58:36,survey,3,Thinking of cancelling because the price is not worth it.
+133,697,2026-04-02 13:23:22,survey,4,Not sure this is for me.
+134,1883,2026-04-02 14:34:35,survey,3,Can you add dark mode and weekly reports?
+135,300,2026-04-02 17:56:24,app_review,2,Decent app but I keep forgetting to open it.
+136,2103,2026-04-03 08:00:30,app_review,4,Would love to share streaks with friends.
+137,2477,2026-04-03 09:46:39,app_review,3,Setting up my first goal was confusing and I gave up.
+138,2404,2026-04-03 13:06:18,survey,3,Needs a way to track habits I do many times a day.
+139,670,2026-04-03 14:55:34,app_review,3,Too many steps before I could start. I almost deleted the app.
+140,2338,2026-04-03 18:25:02,survey,4,Please add a widget for my home screen.
+141,1115,2026-04-03 19:57:17,app_review,2,Too pricey compared to free habit apps.
+142,1616,2026-04-04 14:34:50,app_review,4,It's okay. Nothing special yet.
+143,1012,2026-04-05 09:04:06,app_review,3,Please add a widget for my home screen.
+144,87,2026-04-05 13:44:15,survey,1,I didn't understand what to enter when creating a goal.
+145,2628,2026-04-05 20:41:33,app_review,2,Setting up my first goal was confusing and I gave up.
+146,1291,2026-04-06 11:38:18,app_review,4,Simple and nice to use.
+147,2666,2026-04-06 11:46:03,app_review,1,Pro is too expensive for what it offers.
+148,1343,2026-04-07 09:57:23,app_review,1,Love the app but the subscription cost is too high for me.
+149,444,2026-04-07 12:28:11,app_review,4,Decent app but I keep forgetting to open it.
+150,1242,2026-04-07 17:05:41,app_review,4,It's okay. Nothing special yet.
+151,1180,2026-04-08 12:53:13,survey,3,Would love to share streaks with friends.
+152,2215,2026-04-08 15:05:33,survey,4,It's okay. Nothing special yet.
+153,2509,2026-04-08 17:25:26,app_review,3,I can't justify paying every month for a habit tracker.
+154,1140,2026-04-09 09:21:59,survey,3,Too pricey compared to free habit apps.
+155,2441,2026-04-09 19:15:33,app_review,2,Love the app but the subscription cost is too high for me.
+156,1848,2026-04-09 19:35:20,app_review,4,Not sure this is for me.
+157,767,2026-04-09 20:06:25,app_review,4,Great little app. Does exactly what I need.
+158,2045,2026-04-10 14:59:39,app_review,5,Great little app. Does exactly what I need.
+159,845,2026-04-10 20:30:45,survey,4,Clean design and easy to log check-ins.
+160,2260,2026-04-10 21:14:00,app_review,4,Great little app. Does exactly what I need.
+161,2407,2026-04-11 12:28:09,survey,2,I didn't understand what to enter when creating a goal.
+162,822,2026-04-11 12:43:02,app_review,4,Not sure this is for me.
+163,1093,2026-04-11 16:03:06,app_review,4,Not sure this is for me.
+164,2710,2026-04-11 19:26:52,survey,1,Pro is too expensive for what it offers.
+165,2173,2026-04-12 13:11:25,app_review,3,Love the app but the subscription cost is too high for me.
+166,1088,2026-04-12 14:40:59,app_review,3,It's okay. Nothing special yet.
+167,1211,2026-04-12 18:07:40,app_review,4,Please add a widget for my home screen.
+168,1139,2026-04-13 15:38:17,survey,3,Thinking of cancelling because the price is not worth it.
+169,543,2026-04-13 17:05:08,survey,3,Not sure this is for me.
+170,2734,2026-04-14 09:17:45,survey,1,Too many steps before I could start. I almost deleted the app.
+171,2798,2026-04-14 12:30:07,survey,4,Can you add dark mode and weekly reports?
+172,80,2026-04-14 17:28:39,app_review,2,I can't justify paying every month for a habit tracker.
+173,352,2026-04-15 15:48:52,app_review,1,Crashes every time I open my streak screen.
+174,1889,2026-04-15 17:08:07,app_review,4,Needs a way to track habits I do many times a day.
+175,1693,2026-04-16 19:12:45,survey,2,I can't justify paying every month for a habit tracker.
+176,2775,2026-04-17 10:28:09,survey,2,It's okay. Nothing special yet.
+177,95,2026-04-17 11:06:08,app_review,2,Latest update broke the app. My check-ins won't save.
+178,1432,2026-04-17 17:19:45,survey,5,Clean design and easy to log check-ins.
+179,2572,2026-04-17 18:02:53,app_review,5,Clean design and easy to log check-ins.
+180,55,2026-04-17 21:25:10,app_review,2,Thinking of cancelling because the price is not worth it.
+181,2117,2026-04-18 08:08:21,survey,3,Not sure this is for me.
+182,781,2026-04-18 17:01:02,survey,3,Please add a widget for my home screen.
+183,2633,2026-04-19 13:03:59,app_review,1,Freezes and closes randomly on my phone.
+184,2644,2026-04-19 13:20:35,app_review,2,Decent app but I keep forgetting to open it.
+185,655,2026-04-19 14:21:35,app_review,5,Simple and nice to use.
+186,1360,2026-04-19 16:54:38,app_review,1,Love the app but the subscription cost is too high for me.
+187,767,2026-04-19 18:19:07,app_review,4,Can you add dark mode and weekly reports?
+188,1751,2026-04-19 21:12:02,app_review,5,Clean design and easy to log check-ins.
+189,2865,2026-04-19 21:50:19,survey,5,Simple and nice to use.
+190,1421,2026-04-20 08:16:48,app_review,5,Simple and nice to use.
+191,2765,2026-04-21 10:34:54,app_review,3,Please add a widget for my home screen.
+192,2309,2026-04-21 11:34:28,app_review,2,Too pricey compared to free habit apps.
+193,2278,2026-04-21 14:30:30,survey,3,Can you add dark mode and weekly reports?
+194,253,2026-04-21 16:22:04,app_review,2,It's okay. Nothing special yet.
+195,1771,2026-04-21 19:15:22,app_review,2,Love the app but the subscription cost is too high for me.
+196,148,2026-04-21 19:40:15,app_review,2,Crashes every time I open my streak screen.
+197,1032,2026-04-21 20:32:26,app_review,3,Needs a way to track habits I do many times a day.
+198,3009,2026-04-22 08:18:55,app_review,1,Latest update broke the app. My check-ins won't save.
+199,40,2026-04-22 08:41:03,app_review,2,I didn't understand what to enter when creating a goal.
+200,975,2026-04-22 15:07:17,app_review,5,Great little app. Does exactly what I need.
+201,88,2026-04-22 15:15:29,app_review,4,Would love to share streaks with friends.
+202,1288,2026-04-23 16:15:28,app_review,4,Decent app but I keep forgetting to open it.
+203,2777,2026-04-23 16:56:21,app_review,2,Too many steps before I could start. I almost deleted the app.
+204,1110,2026-04-23 18:43:04,survey,1,Freezes and closes randomly on my phone.
+205,2968,2026-04-24 12:30:45,survey,2,Decent app but I keep forgetting to open it.
+206,1975,2026-04-24 13:07:41,survey,5,Clean design and easy to log check-ins.
+207,3152,2026-04-24 15:16:19,app_review,2,Latest update broke the app. My check-ins won't save.
+208,1994,2026-04-24 15:45:34,survey,1,Thinking of cancelling because the price is not worth it.
+209,440,2026-04-24 19:33:54,app_review,1,Thinking of cancelling because the price is not worth it.
+210,2201,2026-04-24 20:32:33,app_review,3,Too many steps before I could start. I almost deleted the app.
+211,2887,2026-04-24 21:05:55,app_review,3,Needs a way to track habits I do many times a day.
+212,2167,2026-04-25 17:43:03,survey,1,Love the app but the subscription cost is too high for me.
+213,802,2026-04-25 18:15:19,survey,3,Pro is too expensive for what it offers.
+214,3163,2026-04-25 18:20:43,app_review,3,It's okay. Nothing special yet.
+215,2842,2026-04-25 19:09:00,app_review,1,Freezes and closes randomly on my phone.
+216,3052,2026-04-25 21:49:00,survey,4,Decent app but I keep forgetting to open it.
+217,817,2026-04-26 10:38:00,survey,5,Great little app. Does exactly what I need.
+218,2632,2026-04-26 11:03:48,app_review,3,Please add a widget for my home screen.
+219,2430,2026-04-26 13:48:54,survey,5,Reminders are the best feature. I haven't missed a day.
+220,1217,2026-04-26 14:03:32,app_review,3,Decent app but I keep forgetting to open it.
+221,286,2026-04-26 14:07:56,survey,1,Love the app but the subscription cost is too high for me.
+222,2583,2026-04-26 14:18:56,app_review,2,It's okay. Nothing special yet.
+223,3022,2026-04-26 16:05:59,survey,1,Latest update broke the app. My check-ins won't save.
+224,2106,2026-04-26 18:50:00,app_review,3,Too many steps before I could start. I almost deleted the app.
+225,327,2026-04-27 08:10:04,survey,4,Needs a way to track habits I do many times a day.
+226,3102,2026-04-27 15:41:58,survey,2,I can't justify paying every month for a habit tracker.
+227,850,2026-04-27 17:20:38,survey,4,Clean design and easy to log check-ins.
+228,1347,2026-04-27 18:45:52,survey,2,Not sure this is for me.
+229,2554,2026-04-28 08:28:05,app_review,3,Can you add dark mode and weekly reports?
+230,35,2026-04-28 13:03:06,survey,3,Please add a widget for my home screen.
+231,939,2026-04-29 09:30:08,app_review,2,Not sure this is for me.
+232,1659,2026-04-29 14:39:17,app_review,4,Needs a way to track habits I do many times a day.
+233,3135,2026-04-29 17:09:52,survey,2,Freezes and closes randomly on my phone.
+234,2888,2026-04-30 13:20:50,survey,3,Would love to share streaks with friends.
+235,1331,2026-05-01 13:57:46,survey,3,Decent app but I keep forgetting to open it.
+236,1250,2026-05-01 19:28:23,app_review,1,Thinking of cancelling because the price is not worth it.
+237,2547,2026-05-01 20:45:40,app_review,2,It's okay. Nothing special yet.
+238,718,2026-05-02 14:54:41,app_review,3,Would love to share streaks with friends.
+239,1099,2026-05-02 14:58:08,app_review,4,Clean design and easy to log check-ins.
+240,2286,2026-05-03 08:07:31,survey,2,Decent app but I keep forgetting to open it.
+241,2425,2026-05-03 12:26:35,survey,2,Too pricey compared to free habit apps.
+242,1332,2026-05-03 15:04:52,survey,3,Can you add dark mode and weekly reports?
+243,1321,2026-05-03 16:24:31,survey,3,It's okay. Nothing special yet.
+244,1879,2026-05-03 17:10:57,app_review,2,I can't justify paying every month for a habit tracker.
+245,844,2026-05-04 09:23:13,survey,3,I can't justify paying every month for a habit tracker.
+246,1522,2026-05-04 12:06:27,survey,4,Please add a widget for my home screen.
+247,1489,2026-05-04 16:34:28,survey,1,Crashes every time I open my streak screen.
+248,2681,2026-05-04 18:33:29,survey,1,Setting up my first goal was confusing and I gave up.
+249,1236,2026-05-04 21:11:57,survey,4,Reminders are the best feature. I haven't missed a day.
+250,2988,2026-05-04 21:25:32,app_review,4,Clean design and easy to log check-ins.
+251,2630,2026-05-05 08:57:32,survey,1,Pro is too expensive for what it offers.
+252,2672,2026-05-05 09:07:41,app_review,1,The app keeps crashing since the last update.
+253,2941,2026-05-05 13:20:23,app_review,3,Needs a way to track habits I do many times a day.
+254,1574,2026-05-05 15:04:23,app_review,1,Freezes and closes randomly on my phone.
+255,1267,2026-05-05 18:33:02,app_review,3,Decent app but I keep forgetting to open it.
+256,3069,2026-05-05 19:14:01,app_review,2,Too pricey compared to free habit apps.
+257,2028,2026-05-05 20:55:16,app_review,1,I can't justify paying every month for a habit tracker.
+258,3027,2026-05-06 09:14:06,survey,2,Pro is too expensive for what it offers.
+259,802,2026-05-06 13:47:23,app_review,4,Needs a way to track habits I do many times a day.
+260,1571,2026-05-06 17:04:26,survey,3,Decent app but I keep forgetting to open it.
+261,310,2026-05-07 14:29:15,survey,3,Pro is too expensive for what it offers.
+262,867,2026-05-07 17:21:17,app_review,3,Not sure this is for me.
+263,1172,2026-05-07 19:05:37,survey,4,Please add a widget for my home screen.
+264,247,2026-05-08 10:27:28,survey,3,Pro is too expensive for what it offers.
+265,2775,2026-05-08 11:25:09,app_review,2,I can't justify paying every month for a habit tracker.
+266,2195,2026-05-08 20:18:17,survey,3,It's okay. Nothing special yet.
+267,3077,2026-05-09 10:55:29,app_review,1,Love the app but the subscription cost is too high for me.
+268,3392,2026-05-09 12:11:53,survey,3,The goal setup screen is overwhelming.
+269,1631,2026-05-09 12:34:16,survey,4,Simple and nice to use.
+270,110,2026-05-10 08:31:23,survey,4,Decent app but I keep forgetting to open it.
+271,2958,2026-05-10 13:59:24,app_review,5,The daily reminders keep me on track. Love them.
+272,3269,2026-05-11 12:18:37,app_review,4,Great little app. Does exactly what I need.
+273,3208,2026-05-11 13:29:30,app_review,2,Pro is too expensive for what it offers.
+274,616,2026-05-11 16:33:19,app_review,1,Freezes and closes randomly on my phone.
+275,671,2026-05-11 20:52:33,survey,1,Latest update broke the app. My check-ins won't save.
+276,3589,2026-05-12 13:29:51,app_review,1,Crashes every time I open my streak screen.
+277,3013,2026-05-12 13:42:56,app_review,2,Not sure this is for me.
+278,465,2026-05-12 14:49:33,survey,2,Thinking of cancelling because the price is not worth it.
+279,2011,2026-05-12 14:49:47,app_review,2,Latest update broke the app. My check-ins won't save.
+280,2428,2026-05-12 17:18:38,app_review,4,Needs a way to track habits I do many times a day.
+281,223,2026-05-12 21:43:56,app_review,3,Love the app but the subscription cost is too high for me.
+282,1346,2026-05-13 08:02:01,app_review,3,Too many steps before I could start. I almost deleted the app.
+283,2500,2026-05-13 13:13:56,app_review,5,Simple and nice to use.
+284,441,2026-05-13 14:28:59,survey,1,Setting up my first goal was confusing and I gave up.
+285,2293,2026-05-13 18:49:12,app_review,4,Needs a way to track habits I do many times a day.
+286,3308,2026-05-13 19:08:53,app_review,2,I can't justify paying every month for a habit tracker.
+287,745,2026-05-13 19:27:56,app_review,2,I didn't understand what to enter when creating a goal.
+288,3245,2026-05-13 21:34:37,survey,3,Please add a widget for my home screen.
+289,2854,2026-05-14 08:22:15,survey,4,Great little app. Does exactly what I need.
+290,3462,2026-05-14 09:44:54,app_review,3,Thinking of cancelling because the price is not worth it.
+291,2936,2026-05-14 13:33:48,app_review,4,Decent app but I keep forgetting to open it.
+292,951,2026-05-14 14:24:51,app_review,2,Not sure this is for me.
+293,1123,2026-05-14 21:57:18,survey,1,Freezes and closes randomly on my phone.
+294,1543,2026-05-15 09:43:19,survey,3,Not sure this is for me.
+295,2751,2026-05-15 13:08:45,app_review,2,Setting up my first goal was confusing and I gave up.
+296,3676,2026-05-15 16:26:21,survey,2,Thinking of cancelling because the price is not worth it.
+297,2565,2026-05-16 08:52:05,app_review,4,Would love to share streaks with friends.
+298,3465,2026-05-16 10:11:32,survey,4,Decent app but I keep forgetting to open it.
+299,1459,2026-05-16 10:48:47,app_review,4,Decent app but I keep forgetting to open it.
+300,3705,2026-05-16 10:53:20,app_review,4,Great little app. Does exactly what I need.
+301,701,2026-05-16 11:09:39,app_review,2,Pro is too expensive for what it offers.
+302,3248,2026-05-16 12:09:04,app_review,4,Clean design and easy to log check-ins.
+303,1224,2026-05-16 15:17:40,app_review,2,It's okay. Nothing special yet.
+304,2900,2026-05-16 15:47:52,app_review,4,Reminders are the best feature. I haven't missed a day.
+305,1027,2026-05-17 10:13:43,app_review,3,Please add a widget for my home screen.
+306,3014,2026-05-17 13:37:04,app_review,2,I can't justify paying every month for a habit tracker.
+307,2830,2026-05-17 17:45:51,survey,4,Simple and nice to use.
+308,2814,2026-05-17 19:54:40,survey,2,It's okay. Nothing special yet.
+309,2121,2026-05-17 20:21:17,app_review,2,Latest update broke the app. My check-ins won't save.
+310,3736,2026-05-18 09:53:11,app_review,3,Please add a widget for my home screen.
+311,2073,2026-05-18 12:40:25,survey,4,Needs a way to track habits I do many times a day.
+312,3524,2026-05-18 13:36:29,app_review,5,Simple and nice to use.
+313,2096,2026-05-18 14:59:08,app_review,2,Pro is too expensive for what it offers.
+314,1439,2026-05-18 18:39:07,survey,2,Decent app but I keep forgetting to open it.
+315,3003,2026-05-18 21:03:45,app_review,4,Would love to share streaks with friends.
+316,1129,2026-05-19 10:17:11,survey,3,Decent app but I keep forgetting to open it.
+317,3110,2026-05-19 10:47:42,survey,3,Can you add dark mode and weekly reports?
+318,3810,2026-05-19 13:28:54,app_review,3,I can't justify paying every month for a habit tracker.
+319,2369,2026-05-19 17:02:22,survey,5,Simple and nice to use.
+320,2846,2026-05-19 20:25:24,app_review,3,It's okay. Nothing special yet.
+321,2067,2026-05-20 09:40:55,survey,2,Too many steps before I could start. I almost deleted the app.
+322,232,2026-05-20 13:31:56,app_review,4,Not sure this is for me.
+323,3481,2026-05-20 13:56:09,survey,3,Not sure this is for me.
+324,823,2026-05-20 16:36:02,app_review,4,Clean design and easy to log check-ins.
+325,3813,2026-05-20 18:52:06,app_review,3,Would love to share streaks with friends.
+326,2545,2026-05-20 18:58:43,app_review,4,Would love to share streaks with friends.
+327,2486,2026-05-20 20:52:15,app_review,1,Thinking of cancelling because the price is not worth it.
+328,1127,2026-05-20 21:53:16,app_review,3,Too pricey compared to free habit apps.
+329,3661,2026-05-22 08:40:13,app_review,2,It's okay. Nothing special yet.
+330,3668,2026-05-22 11:21:01,app_review,3,Pro is too expensive for what it offers.
+331,1251,2026-05-22 13:57:24,survey,4,Decent app but I keep forgetting to open it.
+332,2742,2026-05-22 14:22:03,app_review,4,Simple and nice to use.
+333,1711,2026-05-22 16:59:48,survey,2,Pro is too expensive for what it offers.
+334,421,2026-05-23 11:39:15,survey,3,I can't justify paying every month for a habit tracker.
+335,3621,2026-05-23 15:01:03,survey,3,Not sure this is for me.
+336,3627,2026-05-23 15:23:13,app_review,4,Great little app. Does exactly what I need.
+337,1599,2026-05-23 16:51:28,app_review,2,Love the app but the subscription cost is too high for me.
+338,2588,2026-05-23 17:33:50,app_review,2,Latest update broke the app. My check-ins won't save.
+339,1931,2026-05-23 18:21:26,app_review,5,Clean design and easy to log check-ins.
+340,3750,2026-05-23 19:22:50,app_review,2,Latest update broke the app. My check-ins won't save.
+341,2835,2026-05-23 20:32:22,app_review,4,It's okay. Nothing special yet.
+342,2351,2026-05-24 09:33:45,survey,4,Great little app. Does exactly what I need.
+343,3967,2026-05-24 09:44:56,app_review,1,Too pricey compared to free habit apps.
+344,3527,2026-05-24 09:47:32,survey,2,It's okay. Nothing special yet.
+345,3641,2026-05-24 15:25:29,survey,1,The app keeps crashing since the last update.
+346,2844,2026-05-24 21:54:29,app_review,3,It's okay. Nothing special yet.
+347,3923,2026-05-25 13:16:11,survey,4,Not sure this is for me.
+348,1826,2026-05-25 17:39:16,app_review,1,The app keeps crashing since the last update.
+349,3929,2026-05-25 18:33:33,survey,3,Decent app but I keep forgetting to open it.
+350,3819,2026-05-26 08:06:28,survey,1,I can't justify paying every month for a habit tracker.
+351,3904,2026-05-26 10:07:06,app_review,4,Clean design and easy to log check-ins.
+352,2426,2026-05-26 14:47:29,survey,1,Love the app but the subscription cost is too high for me.
+353,1906,2026-05-26 16:54:20,survey,3,Pro is too expensive for what it offers.
+354,3008,2026-05-27 08:36:25,survey,3,I can't justify paying every month for a habit tracker.
+355,756,2026-05-27 20:10:25,app_review,3,Would love to share streaks with friends.
+356,1604,2026-05-27 21:09:20,survey,3,It's okay. Nothing special yet.
+357,3420,2026-05-28 11:04:51,survey,4,Not sure this is for me.
+358,4033,2026-05-28 13:04:43,survey,5,Great little app. Does exactly what I need.
+359,2692,2026-05-28 13:07:12,app_review,1,Latest update broke the app. My check-ins won't save.
+360,3709,2026-05-28 13:47:35,app_review,1,Freezes and closes randomly on my phone.
+361,2051,2026-05-28 15:38:39,survey,3,Too many steps before I could start. I almost deleted the app.
+362,3777,2026-05-28 18:59:44,survey,2,Too many steps before I could start. I almost deleted the app.
+363,3855,2026-05-28 19:42:53,app_review,5,Simple and nice to use.
+364,356,2026-05-29 09:08:54,survey,2,Decent app but I keep forgetting to open it.
+365,3824,2026-05-29 10:47:47,survey,2,The goal setup screen is overwhelming.
+366,1684,2026-05-29 14:59:06,app_review,4,Clean design and easy to log check-ins.
+367,3639,2026-05-29 15:26:05,app_review,2,The app keeps crashing since the last update.
+368,2400,2026-05-29 19:38:45,app_review,3,I can't justify paying every month for a habit tracker.
+369,3443,2026-05-29 21:01:21,app_review,4,Can you add dark mode and weekly reports?
+370,3975,2026-05-29 21:31:08,app_review,4,Can you add dark mode and weekly reports?
+371,2623,2026-05-29 21:50:24,app_review,3,Love the app but the subscription cost is too high for me.
+372,3342,2026-05-29 21:56:18,survey,3,Would love to share streaks with friends.
+373,2971,2026-05-30 08:50:08,app_review,4,Great little app. Does exactly what I need.
+374,2925,2026-05-30 10:05:17,survey,1,The app keeps crashing since the last update.
+375,4105,2026-05-30 16:04:18,survey,2,Not sure this is for me.
+376,2266,2026-05-30 21:01:19,app_review,4,Streak reminders actually work for me.
+377,3447,2026-05-31 09:17:32,app_review,1,I didn't understand what to enter when creating a goal.
+378,939,2026-05-31 09:31:46,survey,3,Please add a widget for my home screen.
+379,4124,2026-05-31 13:42:06,app_review,4,Can you add dark mode and weekly reports?
+380,3154,2026-05-31 16:22:14,app_review,2,Thinking of cancelling because the price is not worth it.
+381,2328,2026-05-31 16:47:00,app_review,2,Freezes and closes randomly on my phone.
+382,3922,2026-05-31 19:49:41,survey,3,The goal setup screen is overwhelming.
+383,903,2026-06-01 10:55:20,app_review,1,Too many steps before I could start. I almost deleted the app.
+384,4153,2026-06-01 14:34:52,app_review,5,Great little app. Does exactly what I need.
+385,1926,2026-06-01 17:18:42,app_review,2,Love the app but the subscription cost is too high for me.
+386,4085,2026-06-01 17:51:00,survey,5,Simple and nice to use.
+387,1222,2026-06-01 17:51:28,survey,3,I can't justify paying every month for a habit tracker.
+388,2478,2026-06-01 20:15:23,app_review,5,Great little app. Does exactly what I need.
+389,2434,2026-06-01 21:51:17,app_review,1,Too pricey compared to free habit apps.
+390,3916,2026-06-02 10:56:10,survey,1,I can't justify paying every month for a habit tracker.
+391,3587,2026-06-02 10:59:22,survey,5,Clean design and easy to log check-ins.
+392,1148,2026-06-02 12:50:36,survey,3,Love the app but the subscription cost is too high for me.
+393,3321,2026-06-02 13:53:31,app_review,3,Would love to share streaks with friends.
+394,3578,2026-06-02 18:14:24,app_review,3,I can't justify paying every month for a habit tracker.
+395,1121,2026-06-02 21:02:04,survey,2,It's okay. Nothing special yet.
+396,3259,2026-06-03 08:30:17,app_review,1,The app keeps crashing since the last update.
+397,1149,2026-06-03 10:08:02,app_review,4,Would love to share streaks with friends.
+398,1022,2026-06-03 10:37:50,app_review,4,Not sure this is for me.
+399,1618,2026-06-03 12:05:32,app_review,1,I can't justify paying every month for a habit tracker.
+400,3740,2026-06-03 13:58:14,app_review,2,Love the app but the subscription cost is too high for me.
+401,2736,2026-06-03 15:55:52,app_review,1,Too many steps before I could start. I almost deleted the app.
+402,3747,2026-06-03 18:12:07,app_review,2,Decent app but I keep forgetting to open it.
+403,3746,2026-06-03 20:17:27,app_review,2,Love the app but the subscription cost is too high for me.
+404,3085,2026-06-03 20:57:43,survey,1,Freezes and closes randomly on my phone.
+405,3959,2026-06-03 21:02:04,app_review,2,The app keeps crashing since the last update.
+406,4272,2026-06-04 08:33:37,app_review,2,Latest update broke the app. My check-ins won't save.
+407,2918,2026-06-04 12:25:21,app_review,2,Decent app but I keep forgetting to open it.
+408,3351,2026-06-04 17:34:17,app_review,3,Setting up my first goal was confusing and I gave up.
+409,3785,2026-06-04 19:49:22,app_review,3,The goal setup screen is overwhelming.
+410,3800,2026-06-05 09:43:54,survey,2,Decent app but I keep forgetting to open it.
+411,3060,2026-06-05 13:08:24,app_review,1,Too pricey compared to free habit apps.
+412,4204,2026-06-05 19:44:47,app_review,3,Please add a widget for my home screen.
+413,4098,2026-06-06 08:05:17,app_review,4,Clean design and easy to log check-ins.
+414,4024,2026-06-06 08:24:28,app_review,4,Great little app. Does exactly what I need.
+415,2197,2026-06-06 08:40:11,app_review,3,It's okay. Nothing special yet.
+416,3088,2026-06-06 09:15:15,app_review,2,Crashes every time I open my streak screen.
+417,3078,2026-06-06 11:06:04,app_review,1,I didn't understand what to enter when creating a goal.
+418,3218,2026-06-06 14:24:52,survey,2,I can't justify paying every month for a habit tracker.
+419,2595,2026-06-06 16:00:43,app_review,1,Thinking of cancelling because the price is not worth it.
+420,3840,2026-06-06 18:24:55,app_review,1,Crashes every time I open my streak screen.
+421,3374,2026-06-06 19:30:14,survey,1,Freezes and closes randomly on my phone.
+422,2573,2026-06-07 10:18:42,app_review,2,Latest update broke the app. My check-ins won't save.
+423,3992,2026-06-07 11:05:41,survey,2,Too many steps before I could start. I almost deleted the app.
+424,4273,2026-06-07 14:48:08,survey,3,Please add a widget for my home screen.
+425,3612,2026-06-07 17:58:35,app_review,4,Would love to share streaks with friends.
+426,4049,2026-06-07 21:56:13,app_review,1,The app keeps crashing since the last update.
+427,4011,2026-06-08 09:03:24,app_review,3,Decent app but I keep forgetting to open it.
+428,2612,2026-06-08 14:21:00,app_review,1,Pro is too expensive for what it offers.
+429,4381,2026-06-08 16:06:56,survey,3,Can you add dark mode and weekly reports?
+430,1625,2026-06-08 16:43:12,survey,1,The app keeps crashing since the last update.
+431,2567,2026-06-08 17:00:39,app_review,4,Simple and nice to use.
+432,3125,2026-06-08 17:32:54,survey,5,Simple and nice to use.
+433,4159,2026-06-09 09:05:36,app_review,3,Not sure this is for me.
+434,3157,2026-06-09 10:34:14,app_review,2,The app keeps crashing since the last update.
+435,3313,2026-06-09 15:15:37,app_review,3,Decent app but I keep forgetting to open it.
+436,2673,2026-06-09 15:23:38,survey,4,Can you add dark mode and weekly reports?
+437,3362,2026-06-09 15:50:03,app_review,2,Freezes and closes randomly on my phone.
+438,2595,2026-06-09 16:21:17,app_review,5,Great little app. Does exactly what I need.
+439,4332,2026-06-09 20:19:42,survey,4,Simple and nice to use.
+440,4351,2026-06-10 08:28:23,app_review,4,Can you add dark mode and weekly reports?
+441,3635,2026-06-10 12:17:02,app_review,3,It's okay. Nothing special yet.
+442,2579,2026-06-10 13:14:57,app_review,3,Pro is too expensive for what it offers.
+443,4331,2026-06-10 15:20:37,app_review,4,Decent app but I keep forgetting to open it.
+444,3495,2026-06-10 18:14:06,survey,1,Too pricey compared to free habit apps.
+445,2850,2026-06-10 19:32:29,app_review,5,Reminders are the best feature. I haven't missed a day.
+446,2770,2026-06-11 15:30:24,app_review,4,Great little app. Does exactly what I need.
+447,572,2026-06-11 17:34:59,app_review,2,Pro is too expensive for what it offers.
+448,2324,2026-06-12 11:36:20,survey,2,Decent app but I keep forgetting to open it.
+449,3588,2026-06-12 14:50:14,survey,4,It's okay. Nothing special yet.
+450,2687,2026-06-12 17:38:57,app_review,3,It's okay. Nothing special yet.
+451,4454,2026-06-12 18:09:46,survey,4,Simple and nice to use.
+452,2903,2026-06-12 20:06:10,survey,1,I can't justify paying every month for a habit tracker.
+453,1711,2026-06-13 12:19:29,survey,4,Can you add dark mode and weekly reports?
+454,3958,2026-06-13 13:30:02,app_review,4,It's okay. Nothing special yet.
+455,2682,2026-06-13 13:36:16,survey,1,Too many steps before I could start. I almost deleted the app.
+456,3872,2026-06-13 17:05:58,survey,4,Decent app but I keep forgetting to open it.
+457,2806,2026-06-13 21:59:12,app_review,4,It's okay. Nothing special yet.
+458,2599,2026-06-14 09:00:24,survey,5,Great little app. Does exactly what I need.
+459,2317,2026-06-14 09:59:20,survey,2,Love the app but the subscription cost is too high for me.
+460,4267,2026-06-14 13:48:25,survey,4,It's okay. Nothing special yet.
+461,4456,2026-06-14 15:25:06,survey,4,Please add a widget for my home screen.
+462,3673,2026-06-14 15:52:41,app_review,5,Simple and nice to use.
+463,4134,2026-06-14 20:24:27,survey,4,Would love to share streaks with friends.
+464,3517,2026-06-14 21:31:14,app_review,4,Clean design and easy to log check-ins.
+465,4229,2026-06-15 08:57:28,survey,2,Love the app but the subscription cost is too high for me.
+466,3133,2026-06-15 12:56:53,app_review,1,I can't justify paying every month for a habit tracker.
+467,4469,2026-06-15 15:00:27,app_review,1,The app keeps crashing since the last update.
+468,2960,2026-06-15 15:55:38,survey,2,Crashes every time I open my streak screen.
+469,3178,2026-06-15 16:44:49,app_review,3,Decent app but I keep forgetting to open it.
+470,4430,2026-06-15 18:25:10,survey,1,Pro is too expensive for what it offers.
+471,3124,2026-06-15 20:30:34,survey,4,Great little app. Does exactly what I need.
+472,4434,2026-06-15 20:42:22,survey,5,Simple and nice to use.
+473,3827,2026-06-16 15:15:40,app_review,2,It's okay. Nothing special yet.
+474,1461,2026-06-16 19:59:46,survey,5,Simple and nice to use.
+475,4012,2026-06-16 20:07:47,survey,3,Love the app but the subscription cost is too high for me.
+476,2368,2026-06-17 12:16:52,survey,2,Not sure this is for me.
+477,1791,2026-06-17 17:56:10,app_review,2,Decent app but I keep forgetting to open it.
+478,2978,2026-06-18 09:23:37,survey,2,Pro is too expensive for what it offers.
+479,2962,2026-06-18 10:35:30,survey,3,Not sure this is for me.
+480,1710,2026-06-18 10:58:24,app_review,5,Great little app. Does exactly what I need.
+481,1874,2026-06-18 11:53:20,app_review,4,Can you add dark mode and weekly reports?
+482,119,2026-06-18 17:23:28,survey,4,Not sure this is for me.
+483,3861,2026-06-18 19:10:44,survey,2,Decent app but I keep forgetting to open it.
+484,3395,2026-06-18 21:00:43,app_review,5,The daily reminders keep me on track. Love them.
+485,4215,2026-06-19 10:12:36,app_review,1,The goal setup screen is overwhelming.
+486,2044,2026-06-19 11:20:08,survey,2,The app keeps crashing since the last update.
+487,4198,2026-06-19 13:56:03,app_review,4,Simple and nice to use.
+488,3120,2026-06-19 14:58:56,survey,1,Latest update broke the app. My check-ins won't save.
+489,3479,2026-06-19 16:33:13,survey,3,Not sure this is for me.
+490,4635,2026-06-19 17:07:06,survey,4,Decent app but I keep forgetting to open it.
+491,2318,2026-06-19 17:23:22,app_review,4,Great little app. Does exactly what I need.
+492,3597,2026-06-19 19:29:58,app_review,3,Can you add dark mode and weekly reports?
+493,1689,2026-06-19 21:16:12,app_review,1,Love the app but the subscription cost is too high for me.
+494,2462,2026-06-20 10:21:16,app_review,3,I can't justify paying every month for a habit tracker.
+495,1890,2026-06-20 11:29:14,app_review,2,It's okay. Nothing special yet.
+496,3754,2026-06-20 14:18:02,app_review,2,Thinking of cancelling because the price is not worth it.
+497,4295,2026-06-20 16:39:01,app_review,4,Can you add dark mode and weekly reports?
+498,4611,2026-06-20 18:20:12,app_review,3,Would love to share streaks with friends.
+499,2698,2026-06-20 19:53:26,survey,2,Decent app but I keep forgetting to open it.
+500,4048,2026-06-21 08:19:40,app_review,1,Freezes and closes randomly on my phone.
+501,2370,2026-06-21 11:58:41,survey,5,Simple and nice to use.
+502,2963,2026-06-21 12:00:09,survey,3,Decent app but I keep forgetting to open it.
+503,4078,2026-06-21 12:09:44,app_review,2,It's okay. Nothing special yet.
+504,457,2026-06-21 13:26:45,survey,4,Decent app but I keep forgetting to open it.
+505,2883,2026-06-21 13:27:02,app_review,1,Thinking of cancelling because the price is not worth it.
+506,1557,2026-06-21 14:27:34,app_review,1,The app keeps crashing since the last update.
+507,4664,2026-06-21 16:23:37,survey,5,Simple and nice to use.
+508,4217,2026-06-21 17:09:47,app_review,4,Great little app. Does exactly what I need.
+509,1513,2026-06-22 10:45:50,app_review,2,The app keeps crashing since the last update.
+510,4149,2026-06-22 11:38:45,survey,4,Decent app but I keep forgetting to open it.
+511,4034,2026-06-22 18:56:56,survey,5,Clean design and easy to log check-ins.
+512,3129,2026-06-22 19:43:11,app_review,4,Great little app. Does exactly what I need.
+513,3094,2026-06-22 20:32:08,app_review,4,Decent app but I keep forgetting to open it.
+514,3323,2026-06-23 09:00:01,app_review,3,I didn't understand what to enter when creating a goal.
+515,3268,2026-06-23 09:31:23,survey,1,Latest update broke the app. My check-ins won't save.
+516,3997,2026-06-23 11:56:54,survey,3,It's okay. Nothing special yet.
+517,4635,2026-06-23 12:25:59,survey,3,Thinking of cancelling because the price is not worth it.
+518,4711,2026-06-23 15:42:48,survey,4,It's okay. Nothing special yet.
+519,4765,2026-06-24 11:22:51,survey,1,The app keeps crashing since the last update.
+520,3139,2026-06-24 12:46:44,app_review,3,It's okay. Nothing special yet.
+521,3904,2026-06-24 15:17:54,app_review,1,Freezes and closes randomly on my phone.
+522,4643,2026-06-24 18:08:02,app_review,1,The app keeps crashing since the last update.
+523,4632,2026-06-24 19:59:43,app_review,1,The goal setup screen is overwhelming.
+524,4812,2026-06-24 20:07:38,app_review,3,It's okay. Nothing special yet.
+525,4788,2026-06-24 20:33:20,survey,3,Needs a way to track habits I do many times a day.
+526,4223,2026-06-24 21:13:20,survey,5,Clean design and easy to log check-ins.
+527,3887,2026-06-25 09:04:05,survey,5,Simple and nice to use.
+528,4248,2026-06-25 09:15:36,app_review,2,Thinking of cancelling because the price is not worth it.
+529,4116,2026-06-25 11:26:46,app_review,4,Decent app but I keep forgetting to open it.
+530,4592,2026-06-25 13:50:37,survey,1,Love the app but the subscription cost is too high for me.
+531,4654,2026-06-25 14:03:34,survey,4,Clean design and easy to log check-ins.
+532,4712,2026-06-25 16:31:08,app_review,4,Needs a way to track habits I do many times a day.
+533,2749,2026-06-25 16:51:11,survey,4,Simple and nice to use.
+534,3892,2026-06-25 18:50:10,app_review,2,Love the app but the subscription cost is too high for me.
+535,4438,2026-06-25 19:08:49,app_review,2,It's okay. Nothing special yet.
+536,4108,2026-06-26 09:33:55,app_review,5,Great little app. Does exactly what I need.
+537,4642,2026-06-26 10:18:22,app_review,4,Streak reminders actually work for me.
+538,3430,2026-06-26 10:29:39,app_review,4,Clean design and easy to log check-ins.
+539,4340,2026-06-26 11:29:15,survey,3,Please add a widget for my home screen.
+540,4838,2026-06-26 11:57:53,survey,3,The goal setup screen is overwhelming.
+541,3167,2026-06-26 12:54:49,app_review,3,Pro is too expensive for what it offers.
+542,3848,2026-06-26 13:40:20,app_review,1,Latest update broke the app. My check-ins won't save.
+543,4817,2026-06-26 17:33:21,app_review,1,Freezes and closes randomly on my phone.
+544,4158,2026-06-26 18:00:26,app_review,2,The app keeps crashing since the last update.
+545,4827,2026-06-26 19:46:38,app_review,1,Love the app but the subscription cost is too high for me.
+546,3140,2026-06-27 08:37:53,survey,3,Not sure this is for me.
+547,4238,2026-06-27 10:36:36,app_review,4,Would love to share streaks with friends.
+548,4527,2026-06-27 10:48:40,app_review,2,The app keeps crashing since the last update.
+549,4703,2026-06-27 13:04:44,app_review,1,Latest update broke the app. My check-ins won't save.
+550,4691,2026-06-27 16:08:31,app_review,2,It's okay. Nothing special yet.
+551,4463,2026-06-27 16:44:05,survey,2,Freezes and closes randomly on my phone.
+552,4884,2026-06-27 17:07:57,app_review,2,Love the app but the subscription cost is too high for me.
+553,3067,2026-06-27 18:27:31,survey,2,The app keeps crashing since the last update.
+554,4312,2026-06-27 18:40:04,survey,3,Too pricey compared to free habit apps.
+555,2490,2026-06-27 18:46:36,survey,4,Decent app but I keep forgetting to open it.
+556,4164,2026-06-27 20:00:00,survey,4,Please add a widget for my home screen.
+557,2600,2026-06-27 20:06:03,survey,5,Simple and nice to use.
+558,4383,2026-06-28 11:35:48,app_review,5,Simple and nice to use.
+559,1970,2026-06-28 12:47:52,survey,4,Reminders are the best feature. I haven't missed a day.
+560,3726,2026-06-28 15:39:43,app_review,1,Thinking of cancelling because the price is not worth it.
+561,4910,2026-06-28 17:38:54,app_review,5,Reminders are the best feature. I haven't missed a day.
+562,4894,2026-06-28 19:27:24,app_review,4,Great little app. Does exactly what I need.
+563,4281,2026-06-28 19:38:34,app_review,1,The app keeps crashing since the last update.
+564,4881,2026-06-29 09:48:10,app_review,1,Latest update broke the app. My check-ins won't save.
+565,4918,2026-06-29 12:01:02,app_review,3,Can you add dark mode and weekly reports?
+566,4826,2026-06-29 12:57:08,survey,3,Can you add dark mode and weekly reports?
+567,4966,2026-06-29 13:40:49,app_review,1,Freezes and closes randomly on my phone.
+568,2361,2026-06-29 14:40:19,survey,3,Not sure this is for me.
+569,3780,2026-06-29 18:40:11,survey,4,Clean design and easy to log check-ins.
+570,4466,2026-06-29 19:03:50,app_review,2,Crashes every time I open my streak screen.
+571,4169,2026-06-29 20:18:39,survey,4,Great little app. Does exactly what I need.
+572,4364,2026-06-29 21:02:07,app_review,1,Freezes and closes randomly on my phone.
+573,4075,2026-06-29 21:08:43,app_review,3,Would love to share streaks with friends.
+574,4922,2026-06-30 08:51:33,app_review,5,Great little app. Does exactly what I need.
+575,4950,2026-06-30 09:06:59,app_review,4,Not sure this is for me.
+576,2566,2026-06-30 10:18:55,survey,3,Can you add dark mode and weekly reports?
+577,3335,2026-06-30 10:19:37,survey,2,I didn't understand what to enter when creating a goal.
+578,4526,2026-06-30 10:37:03,app_review,4,Great little app. Does exactly what I need.
+579,4230,2026-06-30 10:54:31,app_review,3,I didn't understand what to enter when creating a goal.
+580,4722,2026-06-30 11:23:46,app_review,2,Freezes and closes randomly on my phone.
+581,4307,2026-06-30 12:00:57,app_review,4,Great little app. Does exactly what I need.
+582,2540,2026-06-30 12:07:56,survey,4,Clean design and easy to log check-ins.
+583,3745,2026-06-30 12:41:31,app_review,3,It's okay. Nothing special yet.
+584,2203,2026-06-30 12:51:00,app_review,4,Needs a way to track habits I do many times a day.
+585,4657,2026-06-30 14:25:21,survey,2,Freezes and closes randomly on my phone.
+586,4989,2026-06-30 15:55:24,survey,4,Please add a widget for my home screen.
+587,4876,2026-06-30 16:52:44,survey,4,It's okay. Nothing special yet.
+588,3648,2026-06-30 16:55:30,app_review,4,Decent app but I keep forgetting to open it.
+589,3536,2026-06-30 18:04:30,app_review,2,The app keeps crashing since the last update.
+590,4662,2026-06-30 20:53:43,survey,2,Freezes and closes randomly on my phone.
+591,4830,2026-06-30 21:08:55,survey,4,Clean design and easy to log check-ins.
